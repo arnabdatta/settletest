@@ -2,15 +2,15 @@
   "settlement": [
     {
       "id": 1,
-      "exported": false
+      "exported": "false"
     },
     {
       "id": 2,
-      "exported": true
+      "exported": "false"
     },
     {
       "id": 3,
-      "exported": false
+      "exported": "false"
     }
   ],
   "profile": {
