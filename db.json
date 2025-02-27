@@ -1,8 +1,16 @@
 {
-  "posts": [
+  "settlement": [
     {
       "id": 1,
-      "title": "hello"
+      "exported": false
+    },
+    {
+      "id": 2,
+      "exported": true
+    },
+    {
+      "id": 3,
+      "exported": false
     }
   ],
   "profile": {
